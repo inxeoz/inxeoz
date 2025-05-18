@@ -25,7 +25,7 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" title="Java" alt="Java" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width="32" title="Rust" alt="Rust" />
+  <img src="https://www.svgrepo.com/show/374056/rust.svg" width="32" alt="rust" title="rust" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" title="C++" alt="C++" />
 </p>

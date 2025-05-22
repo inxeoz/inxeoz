@@ -102,6 +102,7 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
 - Email: [hello@inxeoz.com](mailto:hello@inxeoz.com)  
 - Instagram: [@inxeoz](https://instagram.com/inxeoz)  
 - LinkedIn: [Purushottam Singram](https://www.linkedin.com/in/purushottam-singram)
+- Dribbble: [@inxeoz](https://dribbble.com/inxeoz)
 
 > *“Simplicity is not a style, it's a philosophy.”*
 

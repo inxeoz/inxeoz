@@ -90,7 +90,6 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
 ## 📊 Calm GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inxeoz&show_icons=true&theme=calm&hide_border=true&hide_rank=true&include_all_commits=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inxeoz&layout=compact&theme=calm&hide_border=true" width="49%" />
 </p>
 

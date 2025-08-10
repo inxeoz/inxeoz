@@ -69,6 +69,9 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" title="Godot" alt="Godot" />
     &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" width="32px" alt="capacitor" title="capacitor"/>
+ &nbsp;
+<img src="https://frappe.io/files/frappe-favicon.svg" width="32px" alt="frappe" title="frappe"/>
+
           
 </p>
 

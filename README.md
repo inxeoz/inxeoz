@@ -72,7 +72,7 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
  &nbsp;
 <img src="https://frappe.io/files/frappe-favicon.svg" width="32px" alt="frappe" title="frappe"/>
  &nbsp;
-<img src="https://www.svgrepo.com/download/432263/penpot.svg" width="32px" alt="penpot" title="penpot"/>
+<img src="https://github.com/inxeoz/inxeoz/blob/main/penpot.svg?raw=true" width="32px" alt="penpot" title="penpot"/>
 
 
           

@@ -71,6 +71,9 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" width="32px" alt="capacitor" title="capacitor"/>
  &nbsp;
 <img src="https://frappe.io/files/frappe-favicon.svg" width="32px" alt="frappe" title="frappe"/>
+ &nbsp;
+<img src="https://www.svgrepo.com/download/432263/penpot.svg" width="32px" alt="penpot" title="penpot"/>
+
 
           
 </p>

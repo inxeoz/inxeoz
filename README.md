@@ -2,7 +2,8 @@
 # I'm Purushottam Singram
 
 Software Developer • Designer
-[🌐 inxeoz.com](https://inxeoz.com) &nbsp; | &nbsp; [📬 hello@inxeoz.com](mailto:hello@inxeoz.com)
+
+[inxeoz.com](https://inxeoz.com) &nbsp; | &nbsp; [hello@inxeoz.com](mailto:hello@inxeoz.com)
 
 ---
 

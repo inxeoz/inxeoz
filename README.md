@@ -3,15 +3,6 @@
 
 Software Developer • Designer
 
-[inxeoz.com](https://inxeoz.com) &nbsp; | &nbsp; [hello@inxeoz.com](mailto:hello@inxeoz.com)
-
----
-
-## About Me
-
-I'm a developer and designer focused on building tools that feel human.  
-I love crafting systems that are minimal yet expressive, scalable but intimate.
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -93,7 +84,7 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
 
 ---
 
-## 📊 Calm GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inxeoz&layout=compact&theme=calm&hide_border=true" width="49%" />
@@ -108,7 +99,5 @@ I love crafting systems that are minimal yet expressive, scalable but intimate.
 - Instagram: [@inxeoz](https://instagram.com/inxeoz)  
 - LinkedIn: [Purushottam Singram](https://www.linkedin.com/in/purushottam-singram)
 - Dribbble: [@inxeoz](https://dribbble.com/inxeoz)
-
-> *“Simplicity is not a style, it's a philosophy.”*
 
 ---

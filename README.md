@@ -7,6 +7,8 @@ Software Developer • Designer
 
 ## 🛠️ Languages & Tools
 
+---
+
 ### Backend
 
 <p align="left">

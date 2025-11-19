@@ -1,8 +1,7 @@
 
 # I'm Purushottam Singram
 
-*A calm mind builds creative systems.*  
-Software Developer • Designer • Tech Explorer  
+Software Developer • Designer
 [🌐 inxeoz.com](https://inxeoz.com) &nbsp; | &nbsp; [📬 hello@inxeoz.com](mailto:hello@inxeoz.com)
 
 ---

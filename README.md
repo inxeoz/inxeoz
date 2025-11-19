@@ -1,5 +1,5 @@
 
-# I'm Purushottam Singram
+# Purushottam Singram
 
 Software Developer • Designer
 
